@@ -1,0 +1,8 @@
+{
+  "name": "alien-extinction-riddle",
+  "version": "1.0",
+  "description": "",
+  "dependencies": {
+    "chance": "^1.0.4"
+  }
+}
